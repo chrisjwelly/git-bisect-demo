@@ -94,3 +94,4 @@ good at idx: 92
 good at idx: 93
 good at idx: 94
 good at idx: 95
+good at idx: 96
