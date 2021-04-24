@@ -105,3 +105,4 @@ good at idx: 103
 good at idx: 104
 good at idx: 105
 good at idx: 106
+good at idx: 107
