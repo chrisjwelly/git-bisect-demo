@@ -22,3 +22,4 @@ good at idx: 20
 good at idx: 21
 good at idx: 22
 good at idx: 23
+good at idx: 24
