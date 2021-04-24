@@ -60,3 +60,4 @@ good at idx: 58
 good at idx: 59
 good at idx: 60
 good at idx: 61
+good at idx: 62
