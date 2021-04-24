@@ -604,3 +604,4 @@ good at idx: 602
 good at idx: 603
 good at idx: 604
 good at idx: 605
+good at idx: 606
