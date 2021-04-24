@@ -68,3 +68,4 @@ good at idx: 66
 good at idx: 67
 good at idx: 68
 good at idx: 69
+good at idx: 70
