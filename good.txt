@@ -484,3 +484,4 @@ good at idx: 482
 good at idx: 483
 good at idx: 484
 good at idx: 485
+good at idx: 486
