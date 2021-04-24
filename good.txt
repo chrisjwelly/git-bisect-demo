@@ -580,3 +580,4 @@ good at idx: 578
 good at idx: 579
 good at idx: 580
 good at idx: 581
+good at idx: 582
