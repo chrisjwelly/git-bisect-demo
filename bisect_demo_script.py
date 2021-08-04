@@ -35,5 +35,5 @@ def main():
     # Make good commits afterwards
     make_good_commit_with_range(index_of_bad_commit + 1, total_commits)
 
-
-main()
+if __name__ == '__main__':
+    main()
